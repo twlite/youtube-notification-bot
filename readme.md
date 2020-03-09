@@ -2,9 +2,9 @@
 Simple and easy to use discord bot to notify members whenever a video is posted on a YouTube channel.
 
 # Packages Used
-- discord.js
-- quick.db
-- rss-parser
+- **[discord.js](https://npmjs.com/package/discord.js "View on npmjs")**
+- **[quick.db](https://npmjs.com/package/quick.db "View on npmjs")**
+- **[rss-parser](https://npmjs.com/package/rss-parser "View on npmjs")**
 
 # config.js
 
