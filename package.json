@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/INEX07/youtube-notification-bot.git"
+    "url": "git+https://github.com/Snowflake107/youtube-notification-bot.git"
   },
   "keywords": [
     "youtube",
     "discord.js",
     "notification-bot"
   ],
-  "author": "INEX07",
+  "author": "Snowflake07",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/INEX07/youtube-notification-bot/issues"
+    "url": "https://github.com/Snowflake07/youtube-notification-bot/issues"
   },
-  "homepage": "https://github.com/INEX07/youtube-notification-bot#readme",
+  "homepage": "https://github.com/Snowflake07/youtube-notification-bot#readme",
   "dependencies": {
     "discord.js": "^12.0.2",
     "quick.db": "^7.0.0-b22",
